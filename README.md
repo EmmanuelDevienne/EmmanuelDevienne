@@ -2,9 +2,6 @@
 <h3 align="center">A passionate developer from France love coding in Python !</h3>
 
 
-<p align="left"> <a href="https://twitter.com/@sundayz__" target="blank"><img src="https://img.shields.io/twitter/follow/@sundayz__?logo=twitter&style=for-the-badge" alt="@sundayz__" /></a> </p>
-
-
 - 🔭 I’m currently working on [Easy invoice](https://github.com/EmmanuelDevienne/EasyInvoice)
 
 
