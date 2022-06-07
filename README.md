@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from France love coding in Python !</h3>
 
 
-- 🔭 I’m currently working on [Easy invoice](https://github.com/EmmanuelDevienne/EasyInvoice)
+- 🔭 I’m currently working on [Easy invoice](https://github.com/EmmanuelDevienne/Easy-Invoice)
 
 
 <h3 align="left">Connect with me:</h3>
