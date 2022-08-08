@@ -7,13 +7,13 @@ Interested by the IT, I discovered the code through an experience in trading whe
 
 I like to spend time on Python and also make web applications with Django.
 
-I also have an interest in cybersecurity, I regularly do CTF on Try Hack Me and Hack The Box.
+I also have an interest in cybersecurity, I regularly do some CTF on Try Hack Me and Hack The Box.
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@_sundayz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sundayz__" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/emmanuel devienne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emmanuel devienne" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/emmanuel-devienne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emmanuel devienne" height="30" width="40" /></a>
 </p>
 
 
