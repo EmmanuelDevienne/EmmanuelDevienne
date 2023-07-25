@@ -26,9 +26,8 @@ Global Ranking : Top 650<br/>
 French ranking : Top 100<br/>
 Team Ranking : Top 120<br/>
 Machine Progress : 100<br/>
-Challenge Progress : 60<br/>
- [Link to my profile](https://app.hackthebox.com/profile/1349136) <br/>
-
+Challenge Progress : 60  
+[Link to my profile](https://app.hackthebox.com/profile/1349136)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
