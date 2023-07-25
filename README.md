@@ -18,7 +18,7 @@ Rank : 0xD [God]<br/>
 Global Ranking  : Top 50<br/> 
 French Ranking : Top 5<br/> 
 Rooms Complete : 600<br/>
-[Link to my profile](https://tryhackme.com/p/Sundayz)<br/>
+ [Link to my profile](https://tryhackme.com/p/Sundayz) <br/>
 
 <h3 align="left">HackTheBox :</h3> 
 Rank : Hacker<br/>
@@ -27,7 +27,7 @@ French ranking : Top 100<br/>
 Team Ranking : Top 120<br/>
 Machine Progress : 100<br/>
 Challenge Progress : 60<br/>
-[Link to my profile](https://app.hackthebox.com/profile/1349136)<br/>
+ [Link to my profile](https://app.hackthebox.com/profile/1349136) <br/>
 
 
 <h3 align="left">Connect with me:</h3>
