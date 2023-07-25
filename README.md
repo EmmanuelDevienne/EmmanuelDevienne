@@ -7,11 +7,11 @@ I have always been passionate about computer science and discovered programming 
 
 I have a strong foundation in Python and web application development with Django, which led me to develop an interest in cybersecurity.
 
-I am now a Bug Bounty Hunter at HackerOne and YesWeHack.
+I'm now a BugBounty Hunter at HackerOne and YesWeHack.
 
 I regularly practice on platforms such as TryHackMe and HackTheBox by participating in CTFs.
 
-I recommend [HackTheBox Academy](https://referral.hackthebox.com/mzw44UJ) to learn about cybersecurity!
+I recommend [HackTheBox Academy](https://referral.hackthebox.com/mzw44UJ) to learn about cybersecurity !
 
 <h3 align="left">TryHackMe :</h3> 
 Rank : 0xD [God]<br/>
