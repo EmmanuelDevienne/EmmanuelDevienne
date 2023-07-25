@@ -14,11 +14,11 @@ I regularly practice on platforms such as TryHackMe and HackTheBox by participat
 I recommend [HackTheBox Academy](https://referral.hackthebox.com/mzw44UJ) to learn about cybersecurity!
 
 <h3 align="left">TryHackMe :</h3> 
-Rank : 0xD [God]  
-Global Ranking  : Top 50  
-French Ranking : Top 5  
-Rooms Complete : 600  
- [Link to my profile](https://tryhackme.com/p/Sundayz)  
+Rank : 0xD [God]   
+Global Ranking  : Top 50   
+French Ranking : Top 5   
+Rooms Complete : 600   
+[Link to my profile](https://tryhackme.com/p/Sundayz)  
 
 <h3 align="left">HackTheBox :</h3> 
 Rank : Hacker  
