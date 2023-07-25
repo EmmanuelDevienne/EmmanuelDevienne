@@ -11,14 +11,14 @@ I am now a Bug Bounty Hunter at HackerOne and YesWeHack.
 
 I regularly practice on platforms such as TryHackMe and HackTheBox by participating in CTFs.
 
-Je vous recommande d'aller sur [HackTheBox Academy](https://referral.hackthebox.com/mzw44UJ) pour apprendre la cybersécurité 
+I recommend  [HackTheBox Academy](https://referral.hackthebox.com/mzw44UJ) to learn about cybersecurity !
 
 <h3 align="left">TryHackMe :</h3> 
 Rank : 0xD [God]  
 Global Ranking  : Top 50  
 French Ranking : Top 5  
 Rooms Complete : 600  
-[Link to my profile](https://tryhackme.com/p/Sundayz)
+ [Link to my profile](https://tryhackme.com/p/Sundayz)  
 
 <h3 align="left">HackTheBox :</h3> 
 Rank : Hacker  
@@ -27,7 +27,7 @@ French ranking : Top 100
 Team Ranking : Top 120  
 Machine Progress : 100  
 Challenge Progress : 60  
-[Link to my profile](https://app.hackthebox.com/profile/1349136)
+ [Link to my profile](https://app.hackthebox.com/profile/1349136)  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
