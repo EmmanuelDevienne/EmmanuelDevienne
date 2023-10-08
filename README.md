@@ -21,7 +21,7 @@ Rooms Complete : 600<br/>
 <a href="https://tryhackme.com/p/Sundayz">Link to my profile</a>
 
 <h3 align="left">HackTheBox :</h3> 
-Rank : Hacker<br/>
+Rank : Elite Hacker<br/>
 Global Ranking : Top 100<br/>
 French ranking : Top 3<br/>
 Team Ranking : Top 50<br/>
